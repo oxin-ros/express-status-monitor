@@ -63,12 +63,12 @@
   },
   "license": "MIT",
   "dependencies": {
-    "axios": "0.26.0",
-    "debug": "4.1.1",
-    "handlebars": "^4.7.7",
+    "axios": "1.7.7",
+    "debug": "4.3.6",
+    "handlebars": "^4.7.8",
     "on-headers": "1.0.2",
-    "pidusage": "2.0.18",
-    "socket.io": "^4.4.1"
+    "pidusage": "3.0.2",
+    "socket.io": "^4.7.5"
   },
   "optionalDependencies": {
     "event-loop-stats": "1.2.0"
@@ -82,7 +82,7 @@
   "devDependencies": {
     "chai": "4.3.6",
     "eslint": "8.10.0",
-    "mocha": "9.2.1",
+    "mocha": "10.7.3",
     "sinon": "13.0.1"
   },
   "funding": {
